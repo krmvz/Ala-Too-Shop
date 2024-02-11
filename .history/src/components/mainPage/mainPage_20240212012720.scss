@@ -1,6 +1,7 @@
 .mainPage{
     display: flex;
     background: url('../../assets/img/backgroun\ image.png') no-repeat;
+    display: flex;
     .main_section{
         height: 716px;
         display: flex;
@@ -55,6 +56,62 @@
                     color: white;
                     border-color: #46B6C5;
                 }
+            }
+        }
+    }
+}
+.section{
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    .section_title{
+        display: flex;
+        justify-content: center;
+        h2{
+            font-family: Poppins;
+            font-size: 32px;
+            font-weight: 700;
+            line-height: 48px;
+            letter-spacing: 0px;
+            text-align: left;
+        }
+    }
+    .section_subtitle{
+        display: flex;
+        justify-content: center;
+        p{
+            font-family: Poppins;
+            font-size: 20px;
+            font-weight: 400;
+            line-height: 30px;
+            letter-spacing: 0px;
+            text-align: center;
+            color: #666666;
+        }
+    }
+    .sections_img{
+        margin-top: 62px;
+        .section_row{
+            display: flex;
+            justify-content: space-between;
+            justify-content: center;
+            gap: 20px;
+            .sec{
+                cursor: pointer;
+            }
+            img{
+                width: 381px;
+                height: 480px;
+            }
+            .img_title{
+                font-family: Poppins;
+                font-size: 24px;
+                font-weight: 600;
+                line-height: 36px;
+                letter-spacing: 0px;
+                text-align: center;
+                color: #333333;
+
             }
         }
     }

@@ -1,17 +1,18 @@
 .mainPage{
     display: flex;
-    background: url('../../assets/img/backgroun\ image.png') no-repeat;
+    background: url('../../assets/img/backgroun\ image.png');
     .main_section{
         height: 716px;
-        display: flex;
-        justify-content: flex-end;
-        align-items: center;
+        display: flex
+        ;
         .cards_texts_button{
             margin-right: 190px;
             margin-bottom: 130px;
             width: 561px;
             height: 344px;
             border-radius: 10px;
+            // align-items: center;
+    
             .ad_card{
                 background-color: #E8F9FD;
                 width: 643px;

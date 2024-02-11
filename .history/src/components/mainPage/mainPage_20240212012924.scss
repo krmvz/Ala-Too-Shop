@@ -1,6 +1,7 @@
 .mainPage{
     display: flex;
     background: url('../../assets/img/backgroun\ image.png') no-repeat;
+    flex-direction: column;
     .main_section{
         height: 716px;
         display: flex;
@@ -58,4 +59,5 @@
             }
         }
     }
+    
 }

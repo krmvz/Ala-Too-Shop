@@ -1,6 +1,6 @@
 import React from 'react';
 import './mainPage.scss'
-import data from '../../data.json';
+import data from ''
 
 const MainPage = () => {
   return (

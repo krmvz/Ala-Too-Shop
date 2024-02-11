@@ -1,6 +1,5 @@
 import React from 'react';
 import './mainPage.scss'
-import data from '../../data.json';
 
 const MainPage = () => {
   return (
@@ -13,11 +12,10 @@ const MainPage = () => {
                 <p className="p3"><b>Lorem ipsum dolor sit amet, consectetur adipiscing 
                     elit. Ut elit tellus, luctus nec ullamcorper mattis.</b>
                 </p>
-                <button className="buy_button"><b>BUY NOW</b></button>
+                <button class="buy_button"><b>BUY NOW</b></button>
             </div>
         </div>
       </section>
-      
     </div>
   )
 }
