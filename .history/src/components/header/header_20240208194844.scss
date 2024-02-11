@@ -1,0 +1,36 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    .logo{
+        img{
+            width: 79.67px;
+            height: 86.4px;
+        }
+    }
+    .navbar{
+        nav {
+            ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            
+            li {
+                display: inline;
+                margin-right: 20px;
+                
+                a {
+                color: white;
+                text-decoration: none;
+                
+                &:hover {
+                    text-decoration: underline;
+                }
+                }
+            }
+            }
+        }
+        
+    }
+}
