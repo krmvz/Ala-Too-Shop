@@ -61,16 +61,16 @@
 }
 .catgSec{
     display: flex;
-    flex-direction: column;
+    flex-direction: ;
     justify-content: center;
-    // align-items: center;
+    align-items: center;
     h2{
         font-family: Poppins;
         font-size: 32px;
         font-weight: 700;
         line-height: 48px;
         letter-spacing: 0px;
-        text-align: center
+        // text-align: center
     }
     p{
         font-family: Poppins;
@@ -78,23 +78,12 @@
         font-weight: 400;
         line-height: 30px;
         letter-spacing: 0px;
-        text-align: center;
+        // text-align: center;
     }
-    .categories{
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-        text-align: center;
-        .category{
-            display: flex;
-            flex-direction: column;
-            img{
-                border-radius: 5%;
-                width: 381px;
-                height: 480px;
-                object-fit: cover;
-                
-            }
+    .category{
+        img{
+            width: 381px;
+            height: 480px;
         }
     }
 }

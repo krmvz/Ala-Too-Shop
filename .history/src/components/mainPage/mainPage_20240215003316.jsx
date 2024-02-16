@@ -8,7 +8,7 @@ const MainPage = () => {
   return (
     <div>
       <WelSec/>
-      <CatgSec/>
+      <CatgSec
     </div>
   )
 }
