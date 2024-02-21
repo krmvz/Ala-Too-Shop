@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "category": "Dining",
+      "name": "Syltherine",
+      "price": 2500,
+      "oldPrice": 149.99,
+      "description": "Stylish cafe chair",
+      "image": "https://www.htddirect.com/media/wysiwyg/FSR_1.jpg"
+    },
+    {
+      "category": "Living",
+      "name": "Sofa",
+      "price": 499.99,
+      "oldPrice": 149.99,
+      "description": "Cozy sofa for your living room.",
+      "image": "https://www.htddirect.com/media/wysiwyg/FSR_1.jpg"
+    },
+    {
+      "category": "Bedroom",
+      "name": "Queen Bed",
+      "price": 699.99,
+      "oldPrice": 149.99,
+      "description": "Elegant queen-sized bed for a restful sleep.",
+      "image": "https://www.htddirect.com/media/wysiwyg/FSR_1.jpg"
+    },
+    {
+      "category": "Dining",
+      "name": "Dining Table",
+      "price": 199.99,
+      "oldPrice": 149.99,
+      "description": "Sturdy dining table for family gatherings.",
+      "image": "https://www.htddirect.com/media/wysiwyg/FSR_1.jpg"
+    },
+    
+    {
+      "category": "Living",
+      "name": "Coffee Table",
+      "price": 149.99,
+      "oldPrice": 149.99,
+      "description": "Modern coffee table to complement your living space.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/bethany-adams-interiors-j-l-jordan-photography-657c85285a3a4.jpg?crop=0.647xw:0.971xh;0,0.0240xh&resize=640:*"
+    },
+    
+    {
+      "category": "Bedroom",
+      "name": "Nightstand",
+      "price": 79.99,
+      "oldPrice": 149.99,
+      "description": "Convenient nightstand for bedside storage.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ghk070123homeminifeature-005-655b983d8bf5f.jpg?crop=1xw:0.9989583333333334xh;center,top&resize=980:*"
+    },
+    {
+      "category": "Dining",
+      "name": "Syltherine",
+      "price": 2500,
+      "oldPrice": 149.99,
+      "description": "Stylish cafe chair",
+      "image": "https://www.htddirect.com/media/wysiwyg/FSR_1.jpg"
+    },
+    {
+      "category": "Living",
+      "name": "Sofa",
+      "price": 499.99,
+      "description": "Cozy sofa for your living room.",
+      "image": "https://www.htddirect.com/media/wysiwyg/FSR_1.jpg"
+    },
+    {
+      "category": "Bedroom",
+      "name": "Queen Bed",
+      "price": 699.99,
+      "description": "Elegant queen-sized bed for a restful sleep.",
+      "image": "https://www.htddirect.com/media/wysiwyg/FSR_1.jpg"
+    },
+    {
+      "category": "Dining",
+      "name": "Dining Table",
+      "price": 199.99,
+      "description": "Sturdy dining table for family gatherings.",
+      "image": "https://www.htddirect.com/media/wysiwyg/FSR_1.jpg"
+    },
+    
+    {
+      "category": "Living",
+      "name": "Coffee Table",
+      "price": 149.99,
+      "oldPrice": 149.99,
+      "description": "Modern coffee table to complement your living space.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/bethany-adams-interiors-j-l-jordan-photography-657c85285a3a4.jpg?crop=0.647xw:0.971xh;0,0.0240xh&resize=640:*"
+    },
+    
+    {
+      "category": "Bedroom",
+      "name": "Nightstand",
+      "price": 79.99,
+      "description": "Convenient nightstand for bedside storage.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ghk070123homeminifeature-005-655b983d8bf5f.jpg?crop=1xw:0.9989583333333334xh;center,top&resize=980:*"
+    }
+  ]
+}
