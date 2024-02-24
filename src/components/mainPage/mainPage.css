@@ -155,7 +155,6 @@
   gap: 10px;
   font-weight: 600;
   line-height: 30px;
-  letter-spacing: 0em;
 }
 .prodSec .products .product .proDec .proPrice .oldPrice {
   text-decoration: line-through;
@@ -167,6 +166,76 @@
   font-weight: 400;
   letter-spacing: 0em;
   color: #B0B0B0;
+}
+.prodSec .products .product .layout {
+  background-color: black;
+  opacity: 0%;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: 0;
+  margin-top: -428px;
+  transition: all 1s;
+  transition-duration: 0.4s;
+}
+.prodSec .products .product .hover_options {
+  visibility: hidden;
+  transition: all 1s;
+  transition-duration: 0.2s;
+  position: absolute;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: -420px;
+  width: 100%;
+}
+.prodSec .products .product .hover_options .to_card_btn {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  cursor: pointer;
+}
+.prodSec .products .product .hover_options .to_card_btn button {
+  width: 202px;
+  height: 48px;
+  font-family: Poppins;
+  color: white;
+  background-color: #46B6C5;
+  border-color: #46B6C5;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0em;
+}
+.prodSec .products .product .hover_options .mut_options {
+  padding-top: 24px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-around;
+}
+.prodSec .products .product .hover_options .mut_options .optn {
+  color: white;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.prodSec .products .product .hover_options .mut_options .optn img {
+  width: 16px;
+  height: 16px;
+  margin: 3px;
+}
+.prodSec .products .product:hover .hover_options {
+  visibility: visible;
+}
+.prodSec .products .product:hover .layout {
+  opacity: 60%;
 }
 .prodSec .show_more {
   margin: 32px;
