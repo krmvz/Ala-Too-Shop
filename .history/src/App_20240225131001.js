@@ -1,0 +1,20 @@
+import Footer from "./components/footer/footer";
+import Header from "./components/header/header";
+import MainPage from "./components/mainPage/mainPage";
+
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+
+function App() {
+  return (
+    <div className="App">
+      <Header/>
+      <Router>
+
+      </Router>
+      
+      <Footer/>
+    </div>
+  );
+}
+
+export default App;

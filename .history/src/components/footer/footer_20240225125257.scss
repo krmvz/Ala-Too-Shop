@@ -1,0 +1,74 @@
+.b_div{
+    background-color: #BDE9EF;
+    footer{
+        .footer_info{
+            padding-top: 20px;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            .title{
+                h2{
+                    font-family: Poppins;
+                    font-size: 24px;
+                    font-weight: 700;
+                    line-height: 36px;
+                    letter-spacing: 0em;
+                    padding-bottom: 20px;
+                    // text-align: center;
+                }
+                h4{
+                    font-family: Poppins;
+                    font-size: 16px;
+                    font-weight: 400;
+                    line-height: 24px;
+                    letter-spacing: 0em;
+                    text-align: left;
+                    color: #9F9F9F;
+                }
+                
+            }
+            .footer_content{
+                li{
+                    list-style-type: none;
+                }
+                h4 {
+                    font-size: 16px;
+                    font-weight: 500;
+                    line-height: 70px;
+                    letter-spacing: 0em;
+                    text-align: left;
+                    color: #9F9F9F;
+                }
+                a{
+                    text-decoration: none;
+                    font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+                    color: #000;
+                }
+            }
+        }
+        .copyright{
+            text-align: center;
+            font-family: Poppins;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 24px;
+            letter-spacing: 0em;
+        }
+    }
+    
+}
+.container {
+    width: 100%;
+    max-width: 1200px; // Adjust as needed
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 20px; // Optional padding
+    padding-left: 20px; // Optional padding
+}
+  
