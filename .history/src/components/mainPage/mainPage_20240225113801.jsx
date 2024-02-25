@@ -5,7 +5,6 @@ import WelSec from './Welcome section/welSec';
 import CatgSec from './Category section/catgSec';
 import ProdSect from './products section/prodSect';
 import InspiSect from './inspiSect/inspiSect';
-import GallSect from './gallSect/gallSect';
 
 const MainPage = () => {
   return (
@@ -14,7 +13,7 @@ const MainPage = () => {
       <CatgSec/>
       <ProdSect/>
       <InspiSect/>
-      <GallSect/>
+      <
     </div>
   )
 }

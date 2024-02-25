@@ -431,13 +431,13 @@
         line-height: 48px;
         letter-spacing: 0em;
         text-align: center;
-        padding-bottom: 35px;
+
     }
     .gallImg{
         display: flex;
         flex-wrap: wrap;
-        justify-content: center;
         .galimg{
+            display: flex;
             img{
                 height: 285px;
                 // width: 200px; /* Example width */

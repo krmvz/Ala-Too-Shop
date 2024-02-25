@@ -1,15 +1,12 @@
 import React from 'react'
-import data from '../../.././data.json';
-import share from "../../../assets/icons/share.png"
-import compare from "../../../assets/icons/compare.png"
-import like from "../../../assets/icons/Like icon.png"
-const ProdSect = () => {
-  const products = data.products.slice(0, 8);
 
+const GallSect = () => {
+    const products = data.products.slice(0, 8);
   return (
-    <div className='prodSec container'>
-      <h2>Our Products</h2>
-      <div className="products" style={{ display: 'flex', flexWrap: 'wrap' }}>
+    <div className='gallSect container'>
+        <div className='subTitle'>Share your setup with</div>
+        <div className="gallTitle">#FuniroFurniture</div>
+        <div className="gallImg">
         {products.map(product => (
             <div key={product.name} style={{ width: '20%' }} className="product">
               <img src={product.image} alt={product.name} />
@@ -36,13 +33,9 @@ const ProdSect = () => {
             </div>
             
             ))}
-      </div>
-      <div className="show_more">
-        <button>Show More</button>
-      </div>
-      
+        </div>
     </div>
   )
 }
 
-export default ProdSect;
+export default GallSect;

@@ -402,4 +402,37 @@
 .inspiration .insImg .secnImg .nextBtn img {
   width: 44px;
   height: 44px;
+}
+
+.gallSect {
+  margin-top: 60px;
+}
+.gallSect .subTitle {
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #616161;
+}
+.gallSect .gallTitle {
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: 0em;
+  text-align: center;
+  padding-bottom: 35px;
+}
+.gallSect .gallImg {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.gallSect .gallImg .galimg img {
+  height: 285px;
+  margin: 5px;
+  -o-object-fit: cover;
+     object-fit: cover;
 }/*# sourceMappingURL=mainPage.css.map */

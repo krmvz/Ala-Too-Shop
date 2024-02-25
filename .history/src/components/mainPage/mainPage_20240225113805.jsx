@@ -14,7 +14,7 @@ const MainPage = () => {
       <CatgSec/>
       <ProdSect/>
       <InspiSect/>
-      <GallSect/>
+      <GallSect
     </div>
   )
 }
