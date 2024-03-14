@@ -1,0 +1,65 @@
+.shopPage {
+  background-image: url("../../assets/img/backgroun image.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.shopPage .main {
+  width: 100%;
+  height: 316px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.shopPage .layout {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  opacity: 50%;
+}
+.shopPage .logo-main {
+  font-family: "Poppins", sans-serif;
+  width: 115px;
+  height: 188px;
+  gap: 15px;
+  color: #000;
+  z-index: 1;
+}
+.shopPage .cart h1 {
+  font-size: 48px;
+  font-weight: 500;
+  height: 72px;
+  width: 106px;
+}
+.shopPage .logo {
+  width: 77px;
+  height: 77px;
+  left: 14.5px;
+  border-radius: 400px;
+}
+.shopPage .home-cart a {
+  font-size: 16px;
+  line-height: 24px;
+  text-align: left;
+  top: 164px;
+  width: 115px;
+}
+.shopPage .home {
+  width: 48px;
+  font-weight: 500;
+  height: 24px;
+  text-decoration: none;
+  list-style: none;
+  color: #000;
+}
+.shopPage .cart2 {
+  font-weight: 300;
+  width: 35px;
+  height: 24px;
+  text-decoration: none;
+  list-style: none;
+  color: #000;
+}/*# sourceMappingURL=upPart_20240225142623.css.map */

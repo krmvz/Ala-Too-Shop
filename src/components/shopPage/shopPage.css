@@ -69,7 +69,7 @@
   text-align: left;
   padding-right: 17px;
 }
-.shopPage .filter .container .filtForm .sort input {
+.shopPage .filter .container .filtForm .sort select {
   color: #9F9F9F;
   display: flex;
   justify-content: center;
@@ -242,6 +242,40 @@
 .shopPage .navbtns .btns .actP {
   color: white;
   background-color: #46B6C5;
+}
+.shopPage .addSection {
+  background-color: #E8F9FD;
+}
+.shopPage .addSection .cart-button {
+  background-color: #E8F9FD;
+  font-family: "Poppins", sans-serif;
+  width: 100%;
+}
+.shopPage .addSection .feature {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 100px 0 100px 0;
+  gap: 10px;
+}
+.shopPage .addSection .cart-button p {
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 37.5px;
+  text-align: left;
+  color: #242424;
+}
+.shopPage .addSection .cart-button small {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 15px;
+  text-align: left;
+  color: #898989;
+}
+.shopPage .addSection .cart-button svg {
+  width: 60px;
+  height: 60px;
+  /* padding: 0px, 3.61px, 0px, 3.61px; */
 }
 
 .container {
