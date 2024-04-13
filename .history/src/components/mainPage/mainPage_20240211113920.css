@@ -1,0 +1,7 @@
+.mainPage {
+  display: flex;
+  background-image: url("../../assets/img/backgroun image.png");
+}
+.mainPage .main_section {
+  height: 716px;
+}/*# sourceMappingURL=mainPage_20240211113920.css.map */

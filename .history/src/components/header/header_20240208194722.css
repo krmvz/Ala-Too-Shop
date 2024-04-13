@@ -1,0 +1,10 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.header .logo img {
+  width: 79.67px;
+  height: 86.4px;
+}/*# sourceMappingURL=header_20240208194722.css.map */

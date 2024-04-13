@@ -1,0 +1,57 @@
+{
+    "categories": [
+      {
+        "name": "Dining",
+        "products": [
+          {
+            "name": "Dining Chair",
+            "price": 99.99,
+            "description": "Comfortable dining chair for your dining room.",
+            "image": "https://example.com/dining-chair.jpg"
+          },
+          {
+            "name": "Dining Table",
+            "price": 199.99,
+            "description": "Sturdy dining table for family gatherings.",
+            "image": "https://example.com/dining-table.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Living",
+        "products": [
+          {
+            "name": "Sofa",
+            "price": 499.99,
+            "description": "Cozy sofa for your living room.",
+            "image": "https://example.com/sofa.jpg",
+            "img": url
+          },
+          {
+            "name": "Coffee Table",
+            "price": 149.99,
+            "description": "Modern coffee table to complement your living space.",
+            "image": "https://example.com/coffee-table.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Bedroom",
+        "products": [
+          {
+            "name": "Queen Bed",
+            "price": 699.99,
+            "description": "Elegant queen-sized bed for a restful sleep.",
+            "image": "https://example.com/queen-bed.jpg"
+          },
+          {
+            "name": "Nightstand",
+            "price": 79.99,
+            "description": "Convenient nightstand for bedside storage.",
+            "image": "https://example.com/nightstand.jpg"
+          }
+        ]
+      }
+    ]
+  }
+  

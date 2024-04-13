@@ -1,0 +1,12 @@
+.cart-button small {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  color: #898989;
+}
+
+.cart-button svg {
+  width: 60px;
+  height: 60px;
+}/*# sourceMappingURL=card_20240308105501.css.map */

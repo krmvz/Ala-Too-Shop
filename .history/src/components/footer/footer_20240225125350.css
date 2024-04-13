@@ -1,0 +1,65 @@
+.b_div {
+  background-color: #BDE9EF;
+}
+.b_div footer .footer_info {
+  padding-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.b_div footer .footer_info .title h2 {
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: 0em;
+  padding-bottom: 20px;
+}
+.b_div footer .footer_info .title h4 {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #9F9F9F;
+}
+.b_div footer .footer_info .footer_content li {
+  list-style-type: none;
+}
+.b_div footer .footer_info .footer_content h4 {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 70px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #9F9F9F;
+}
+.b_div footer .footer_info .footer_content a {
+  text-decoration: none;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  padding-t: 25px;
+  color: #000;
+}
+.b_div footer .copyright {
+  text-align: center;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 20px;
+  padding-left: 20px;
+}/*# sourceMappingURL=footer_20240225125350.css.map */

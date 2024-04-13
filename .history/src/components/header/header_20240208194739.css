@@ -1,0 +1,31 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.header .logo img {
+  width: 79.67px;
+  height: 86.4px;
+}
+.header .navbar nav {
+  background-color: #333;
+  color: white;
+  padding: 10px 20px;
+}
+.header .navbar nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.header .navbar nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+.header .navbar nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+.header .navbar nav ul li a:hover {
+  text-decoration: underline;
+}/*# sourceMappingURL=header_20240208194739.css.map */

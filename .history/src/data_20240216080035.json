@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "name": "Dining",
+      "image": "https://www.htddirect.com/media/wysiwyg/FSR_1.jpg",
+      "products": [
+        {
+          "name": "Dining Chair",
+          "price": 99.99,
+          "description": "Comfortable dining chair for your dining room.",
+          "image": "https://www.example.com/dining-chair.jpg"
+        },
+        {
+          "name": "Dining Table",
+          "price": 199.99,
+          "description": "Sturdy dining table for family gatherings.",
+          "image": "https://www.example.com/dining-table.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Living",
+      "image": "https://www.example.com/living-image.jpg",
+      "products": [
+        {
+          "name": "Sofa",
+          "price": 499.99,
+          "description": "Cozy sofa for your living room.",
+          "image": "https://www.example.com/sofa.jpg"
+        },
+        {
+          "name": "Coffee Table",
+          "price": 149.99,
+          "description": "Modern coffee table to complement your living space.",
+          "image": "https://www.example.com/coffee-table.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Bedroom",
+      "image": "https://www.example.com/bedroom-image.jpg",
+      "products": [
+        {
+          "name": "Queen Bed",
+          "price": 699.99,
+          "description": "Elegant queen-sized bed for a restful sleep.",
+          "image": "https://www.example.com/queen-bed.jpg"
+        },
+        {
+          "name": "Nightstand",
+          "price": 79.99,
+          "description": "Convenient nightstand for bedside storage.",
+          "image": "https://www.example.com/nightstand.jpg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+footer {
+  background-color: #BDE9EF;
+}
+footer .footer_info .title h2 {
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: 0em;
+}
+footer .copyright {
+  text-align: center;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+}/*# sourceMappingURL=footer_20240209103347.css.map */
